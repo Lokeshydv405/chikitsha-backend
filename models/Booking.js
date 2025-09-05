@@ -23,8 +23,7 @@ const bookingSchema = new mongoose.Schema(
 
     // Address
     address: {
-      contactname: { type: String, required: true },
-      contactphone: { type: String, required: true },
+      
       line1: { type: String, required: true },
       line2: { type: String },
       city: { type: String, required: true },
