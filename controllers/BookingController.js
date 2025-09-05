@@ -3,7 +3,7 @@ const CartItem = require("../models/Cart");
 const User = require("../models/user");
 
 // Create a new booking from cart
-exports.createBooking = async (req, res) => {
+exports.createBooking = async (req, res) => {  
     try {
         const { userId, bookingDate, timeSlot, addressIndex, prescriptionUrl } = req.body;
 
