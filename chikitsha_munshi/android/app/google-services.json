@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429125840929",
+    "project_id": "chikitsha-munshi",
+    "storage_bucket": "chikitsha-munshi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429125840929:android:320fc861b313cee1037360",
+        "android_client_info": {
+          "package_name": "com.example.chikitsha_munshi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgl51b5QI2jITjAtd7JJnU4LdGwwiS9Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
